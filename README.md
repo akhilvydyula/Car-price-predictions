@@ -1,2 +1,2 @@
 # Car-Price-Prediction
- deployed into : 
+ deployed into : https://car-price-predicq.herokuapp.com/
